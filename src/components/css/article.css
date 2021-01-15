@@ -1,0 +1,20 @@
+article{
+    width: 70%;
+    margin: auto;
+    padding-top: 40px;
+    
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.article-text{
+    width: 400px;
+}
+
+.article-text h1{
+    color: greenyellow;
+}

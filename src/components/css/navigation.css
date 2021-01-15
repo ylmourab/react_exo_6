@@ -1,0 +1,15 @@
+ul{
+    display: flex;
+    gap: 15px;
+    margin: 0;
+    padding: 0;
+    margin-left: 15px;
+}
+
+a{
+    text-decoration: none;
+    border: greenyellow 1px solid;
+    padding: 10px 20px;
+    color: white;
+ 
+}
